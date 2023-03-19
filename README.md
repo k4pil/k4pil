@@ -10,11 +10,13 @@
 
 ### Connect with me:
 
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="HackTheBox" width="60px" src="https://www.hackthebox.com/images/logo-htb.svg" />][hackthebox]
-[<img align="left" alt="Medium" width="90px" src="https://cdn-icons-png.flaticon.com/512/5968/5968885.png" />][medium]
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kapilvarmapsy/ "Connect via LinkedIn")
 
+[<img align="left" alt="HackTheBox" width="60px" src="https://www.hackthebox.eu/badge/image/288072" />][hackthebox]
+
+[![Medium Badge](https://img.shields.io/badge/-Medium-1c1c1c?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@kapilvarma1 "Follow me on Medium")
+
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-4c68d7?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/k4pil.py/ "Connect via Instagram")
 <br />
 
 ### Languages and Tools:
@@ -58,7 +60,5 @@
 
 ---
 
-[linkedin]: https://linkedin.com/in/kapilvarmapsy
+
 [hackthebox]: https://app.hackthebox.com/users/288072
-[medium]: https://medium.com/@kapilvarma1
-[instagram]: https://www.instagram.com/k4pil.py
