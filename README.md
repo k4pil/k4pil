@@ -12,7 +12,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kapilvarmapsy/ "Connect via LinkedIn")
 
-[<img align="left" alt="HackTheBox" width="60px" src="https://www.hackthebox.eu/badge/image/288072" />][hackthebox]
+[![HackTheBox Badge](https://img.shields.io/badge/-HackTheBox-494649?style=for-the-badge&logo=hackthebox)](https://app.hackthebox.com/users/288072 "Follow me on HackTheBox")
 
 [![Medium Badge](https://img.shields.io/badge/-Medium-1c1c1c?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@kapilvarma1 "Follow me on Medium")
 
@@ -61,4 +61,3 @@
 ---
 
 
-[hackthebox]: https://app.hackthebox.com/users/288072
