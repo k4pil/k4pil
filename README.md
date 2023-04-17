@@ -1,12 +1,12 @@
 ### Hi there 👋, I'm Kapil Varma!
 
 
-## I'm a Student, Penetration Tester, a bit of Developer & Learner!! 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+## I'm a Student, Penetration Tester, a bit of Developer & Learner!!
+
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2023 Goals: Contribute more to Open Source projects and Git-Hub Commits
-- ⚡ Fun fact: I love to Explore, Hack, Gym!!
+- ⚡ Fun fact: I love to Explore, Hack, Gym!!<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60">
 
 
 ### Connect with me:
