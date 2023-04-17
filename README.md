@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Kapil Varma!
 
 
-## I'm a Student, Penetration Tester, a bit of Developer & Learner!!<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60">
+## I'm a Student, Penetration Tester, a bit of Developer & Learner!!<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
 
 
 - 🌱 I’m currently learning everything 🤣
