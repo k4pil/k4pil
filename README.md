@@ -45,16 +45,12 @@
 
 ---
 
-### :zap: GitHub Stats
+## <div align="center">Stats</div>
 
-<center>
-  <table>
-    <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k4pil&hide=html&layout=compact&theme=buefy" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=k4pil&hide=html&layout=compact&theme=buefy"/></td>
-    </tr>   
-  </table>
-</center>
+<div align="center">
+  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=k4pil&custom_title=Kapil+Varma%27s+Github+Stats&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=00000000&title_color=2e90ff&text_color=f0f0f0&icon_color=2bb389&cache_seconds=1000" />
+
+  <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=k4pil&background=00000000&hide_border=true&stroke=878787&ring=2e90ff&fire=2e90ff&currStreakNum=f0f0f0&sideNums=f0f0f0&currStreakLabel=2bb389&sideLabels=2bb389&dates=dedede" />
 
 ---
 
