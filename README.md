@@ -8,6 +8,15 @@
 - 🥅 2023 Goals: Contribute more to Open Source projects and GitHub Commits
 - ⚡ Fun fact: I love to Explore, Hack, Gym!!
 
+### Skills:
+
+- Web Application Penetration Testing
+- API Security
+- Network Penetration Testing
+- Linux
+- Incident Response
+- Web Development
+- Bash Scripting
 
 ### Connect with me:
 
