@@ -24,7 +24,7 @@
 
 [![HackTheBox Badge](https://img.shields.io/badge/-HackTheBox-494649?style=for-the-badge&logo=hackthebox)](https://app.hackthebox.com/users/288072 "Follow me on HackTheBox")
 
-[![Medium Badge](https://img.shields.io/badge/-Medium-1c1c1c?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@kapilvarma1 "Follow me on Medium")
+[![Medium Badge](https://img.shields.io/badge/-Medium-1c1c1c?style=for-the-badge&logo=Medium&logoColor=white)](https://k4pil.medium.com/ "Follow me on Medium")
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-4c68d7?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/k4pil.py/ "Connect via Instagram")
 <br />
