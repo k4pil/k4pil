@@ -55,9 +55,7 @@
 ---
 
 ## <div align="center">Stats</div>
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=k4pil&label=Profile%20Views&color=12&icon=8&pretty=true" />
-</a><br>
+![](https://komarev.com/ghpvc/?username=k4pil)<br>
 <div align="center">
   <img width="400px" src="https://github-readme-stats.vercel.app/api?username=k4pil&custom_title=Kapil+Varma%27s+Github+Stats&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=00000000&title_color=2e90ff&text_color=f0f0f0&icon_color=2bb389&cache_seconds=1000" />
 
