@@ -3,7 +3,7 @@
 
 ## I'm a Student, Penetration Tester, a bit of Developer & Learner!!<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
 
-
+- 💫 Founder @hackxVU
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2023 Goals: Contribute more to Open Source projects and GitHub Commits
 - ⚡ Fun fact: I love to Explore, Hack, Gym!!
@@ -26,7 +26,7 @@
 
 [![Medium Badge](https://img.shields.io/badge/-Medium-1c1c1c?style=for-the-badge&logo=Medium&logoColor=white)](https://k4pil.medium.com/ "Follow me on Medium")
 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-4c68d7?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/k4pil.py/ "Connect via Instagram")
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-4c68d7?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/0xk4pil/ "Connect via Instagram")
 <br />
 
 ### Support me:
