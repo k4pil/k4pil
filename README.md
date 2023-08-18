@@ -3,7 +3,7 @@
 
 ## I'm a Student, Penetration Tester, a bit of Developer & Learner!!<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
 
-- 💫 Founder @hackxVU
+- 💫 Founder <p>hee</p>
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2023 Goals: Contribute more to Open Source projects and GitHub Commits
 - ⚡ Fun fact: I love to Explore, Hack, Gym!!
